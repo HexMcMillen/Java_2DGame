@@ -1,5 +1,5 @@
 ![Screenshot (20)](https://user-images.githubusercontent.com/109919138/221999087-676f96ae-f642-4104-85f7-e54ffd1683cb.png)
-<p>My Personal 2D Adventure is a demo top down 8-bit game that allows the user to traverse the map and interact with other NPCs whether they be friend or foe. Fight your way though the stage and learn how to wield magic in the process</p>
+<p>My Personal 2D Adventure is a demo top down 8-bit game that allows the user to traverse the map and interact with other NPCs whether they be friend or foe. Fight your way though the stage and learn how to wield magic in the process.</p>
 
 <h2>Features</h2>
 <p>Some of the activities and features in the game:</p>
