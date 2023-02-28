@@ -13,7 +13,7 @@
 </ul>
 
 <h2>Built With</h2
-<p>Technologies used in this project</p>
+<p>Technologies used in this project:</p>
 <ul>
   <li>Java</li>
   <li>Java OOP</li>
